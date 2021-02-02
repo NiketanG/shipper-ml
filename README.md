@@ -1,6 +1,4 @@
 
-	$ cd Size-Invariant-Ship-Detection-from-SAR-Imagery-ISRO-SIH-2020
-
 	$ sudo apt-get install virtualenv
 
 	$ virtualenv env
