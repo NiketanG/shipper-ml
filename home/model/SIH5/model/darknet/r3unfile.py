@@ -73,7 +73,7 @@ fr = open('./results/comp4_det_test_ship.txt', 'r')
 ls = fr.readlines()
 count = 1
 print('current path: ' + os.getcwd())
-print(sys.argv[3])
+# print(sys.argv[3])
 for line in ls:
     line = str(line)
     image, prob, x, y, w, h = line.split()

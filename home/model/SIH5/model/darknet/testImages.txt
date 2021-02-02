@@ -1,6 +1,9 @@
-/Users/gauravverma/Library/Containers/com.apple.STMExtension.Mail/Data/Documents/SIH-Portal_2/home/model/SIH5/model/darknet/Chipped/512_512.jpg
-/Users/gauravverma/Library/Containers/com.apple.STMExtension.Mail/Data/Documents/SIH-Portal_2/home/model/SIH5/model/darknet/Chipped/512_1024.jpg
-/Users/gauravverma/Library/Containers/com.apple.STMExtension.Mail/Data/Documents/SIH-Portal_2/home/model/SIH5/model/darknet/Chipped/512_1536.jpg
-/Users/gauravverma/Library/Containers/com.apple.STMExtension.Mail/Data/Documents/SIH-Portal_2/home/model/SIH5/model/darknet/Chipped/1024_512.jpg
-/Users/gauravverma/Library/Containers/com.apple.STMExtension.Mail/Data/Documents/SIH-Portal_2/home/model/SIH5/model/darknet/Chipped/1024_1024.jpg
-/Users/gauravverma/Library/Containers/com.apple.STMExtension.Mail/Data/Documents/SIH-Portal_2/home/model/SIH5/model/darknet/Chipped/1024_1536.jpg
+/home/nikketan/nikketan/Size-Invariant-Ship-Detection-from-SAR-Imagery-ISRO-SIH-2020/home/model/SIH5/model/darknet/Chipped/512_512.jpg
+/home/nikketan/nikketan/Size-Invariant-Ship-Detection-from-SAR-Imagery-ISRO-SIH-2020/home/model/SIH5/model/darknet/Chipped/512_1024.jpg
+/home/nikketan/nikketan/Size-Invariant-Ship-Detection-from-SAR-Imagery-ISRO-SIH-2020/home/model/SIH5/model/darknet/Chipped/512_1536.jpg
+/home/nikketan/nikketan/Size-Invariant-Ship-Detection-from-SAR-Imagery-ISRO-SIH-2020/home/model/SIH5/model/darknet/Chipped/1024_512.jpg
+/home/nikketan/nikketan/Size-Invariant-Ship-Detection-from-SAR-Imagery-ISRO-SIH-2020/home/model/SIH5/model/darknet/Chipped/1024_1024.jpg
+/home/nikketan/nikketan/Size-Invariant-Ship-Detection-from-SAR-Imagery-ISRO-SIH-2020/home/model/SIH5/model/darknet/Chipped/1024_1536.jpg
+/home/nikketan/nikketan/Size-Invariant-Ship-Detection-from-SAR-Imagery-ISRO-SIH-2020/home/model/SIH5/model/darknet/Chipped/1536_512.jpg
+/home/nikketan/nikketan/Size-Invariant-Ship-Detection-from-SAR-Imagery-ISRO-SIH-2020/home/model/SIH5/model/darknet/Chipped/1536_1024.jpg
+/home/nikketan/nikketan/Size-Invariant-Ship-Detection-from-SAR-Imagery-ISRO-SIH-2020/home/model/SIH5/model/darknet/Chipped/1536_1536.jpg
