@@ -14,7 +14,7 @@ def ShipDetection_view(request):
         form = ShipForm(request.POST, request.FILES) 
   
         if form.is_valid(): 
-            form.save() 
+            # form.save() 
             # return redirect('result')
             scale = request.POST.get("scale")
             for i in range(10):
