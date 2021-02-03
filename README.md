@@ -44,18 +44,9 @@
 	
 
 
-get back to parent directory by executing next command 5 times
+get back to parent directory
 
-	$ cd ..
-
-	$ cd ..
-
-	$ cd ..
-
-	$ cd ..
-
-	$ cd ..
-	
+	$ cd ../../../../../
 
 
 to launch server execute the following
@@ -63,14 +54,12 @@ to launch server execute the following
 	$ python3 manage.py runserver
 	
 
-
 go to browser and type http://127.0.0.1:8000/demo
 
 
-## Website Demo
+Upload an Image, Type 0.8 as the scale and submit.
 
-
-
+It might take a minute or two based on your CPU. 
 Now the model will start working !!
 ( Wait for 2 mins if your VM is working on a CPU )
 
