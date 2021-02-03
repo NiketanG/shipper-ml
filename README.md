@@ -64,7 +64,7 @@ to launch server execute the following
 	
 
 
-go to browser and type http://127.0.0.1:8000/
+go to browser and type http://127.0.0.1:8000/demo
 
 
 ## Website Demo
