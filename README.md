@@ -36,7 +36,7 @@ pip install -r requirements.txt
 ### Download the Pre-trained Model
 
 ```bash
-wget "https://www.dropbox.com/s/ngy6qx4hxfj6wru/yolov3-ship_1200.weights?dl=1" model/yolov3-ship_1200.weights
+wget "https://www.dropbox.com/s/ngy6qx4hxfj6wru/yolov3-ship_1200.weights?dl=1" -O model/yolov3-ship_1200.weights
 ```
 
 If on Windows, Copy the link and paste in browser. Download the Model and paste it in the [`model`](model) directory. 
