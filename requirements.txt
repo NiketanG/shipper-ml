@@ -148,7 +148,7 @@ terminaltables==3.1.0
 texttable==1.6.2
 toml==0.10.2
 tqdm==4.56.0
-urllib3==1.25.10
+urllib3==1.26.5
 wcwidth==0.1.9
 websocket-client==0.57.0
 Werkzeug==1.0.1
